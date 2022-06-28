@@ -1,0 +1,15 @@
+* {
+  margin: 20px 20px;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: rgb(9, 94, 19);
+  color: #fff;
+  font-weight: bolder;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
